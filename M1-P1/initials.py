@@ -5,7 +5,8 @@ line4 = "L     C     GGGGG EEEEE"
 line5 = "L     C     G   G E    "
 line6 = "L     C     G   G E    "
 line7 = "LLLLL CCCCC GGGGG EEEEE" 
-
+#My Name : Luis Carlos Galvis
+#Cool thing: I'm doing good
 print (line1)
 print (line2)
 print (line3)
